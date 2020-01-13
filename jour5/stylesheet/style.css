@@ -1,0 +1,43 @@
+#bgpic{
+    background-image: url(/media/bk1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;    
+
+}
+
+
+#siz{
+    text-align: center;
+    margin-top: 13%;
+    margin-left: 22%;
+    width: 50rem;
+    background: transparent;
+}
+
+
+
+#sppc{
+    background-image: url(/media/op2.jpg);
+}
+
+
+#alg{
+    text-align: center;
+    margin-top: 13%;
+    margin-left: 10%%;
+    background: transparent;
+
+}
+
+
+
+#black{
+    background-image: url(/media/op3.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+
